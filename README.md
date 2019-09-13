@@ -20,7 +20,7 @@ greater than or equal to K. Print a new line after each test case.
 # Sample Input
       2
     3 4
-  1 2 5 
+    1 2 5 
     3 2
   2 5 5
 
