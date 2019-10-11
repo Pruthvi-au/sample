@@ -76,7 +76,7 @@ Print a single line containing the minimum sum.
 # <h3>Sample Output</h3>
 11
 # -------------------------------------------------------------------
-4. Pink Floyd and Happiness
+# 4. Pink Floyd and Happiness
 Pink is sad because of some reasons, he wants to cheer up by listening to some songs from his favorite band, Pink Floyd.
 
 There are N records and Pink will be happy if he listens to them in the ascending order, i.e., first the song No. 1, then No.2 and so on (He has to listen to all the N songs to become Happy).
